@@ -1,0 +1,54 @@
+.p{
+    float: right;
+     padding-left: 100px;
+     margin-right: 90px;
+     border:2px solid black;
+     padding-top: 10px;
+     padding-left: 10px;
+     background-color: antiquewhite;
+ }
+ .p1{
+     float: right;
+     margin-top: 40px;
+     color: crimson;
+     
+ }
+ .photo{
+     margin-left: 150px;
+     
+ }
+ .skill{
+     margin-left: 80px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: chocolate;
+ }
+ .education{
+     margin-left:80px ;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+     color: blueviolet;
+ }
+ .top{
+     float: right;
+ }
+ .box{
+     float: right;
+ }
+ .contact{
+     
+     margin-left: 500px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: black;
+     
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
